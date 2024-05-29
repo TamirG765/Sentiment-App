@@ -14,7 +14,7 @@ Use python version `3.12.3`.
 
 1. Clone the repo:
 
-`git clone https://github.com/TamirG765/sentiment-app.git`/n
+`git clone https://github.com/TamirG765/sentiment-app.git`\n
 `cd sentiment-app`
 
 2. Install dependencies:

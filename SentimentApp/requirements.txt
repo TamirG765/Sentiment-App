@@ -1,0 +1,8 @@
+streamlit
+requests
+pydantic
+transformers
+fastapi
+starlette
+uvicorn[standard]
+gunicorn

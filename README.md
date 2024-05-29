@@ -17,14 +17,17 @@ Use python version `3.12.3`.
 `git clone https://github.com/TamirG765/sentiment-app.git
 cd sentiment-app`
 
-3. Install dependencies:
+2. Install dependencies:
+
 `pip install -r requirements.txt`
 
-4. Run Streamlit app:
+3. Run Streamlit app:
+
 `cd streamlit_app
 streamlit run streamlit_app.py`
 
-5. Run FastAPI Server:
+4. Run FastAPI Server:
+
 `cd fatapi_app
 uvicorn fastapi_app:app --reload`
 

@@ -14,7 +14,7 @@ Use python version `3.12.3`.
 
 1. Clone the repo:
 
-`git clone https://github.com/TamirG765/sentiment-app.git`\n
+`git clone https://github.com/TamirG765/sentiment-app.git`</br>
 `cd sentiment-app`
 
 2. Install dependencies:
@@ -23,12 +23,12 @@ Use python version `3.12.3`.
 
 3. Run Streamlit app:
 
-`cd streamlit_app`
+`cd streamlit_app`</br>
 `streamlit run streamlit_app.py`
 
 4. Run FastAPI Server:
 
-`cd fatapi_app`
+`cd fatapi_app`</br>
 `uvicorn fastapi_app:app --reload`
 
 Hope you guys like it! 🦾

@@ -1,0 +1,7 @@
+*.txt
+*.bin
+*.json
+*.safetensors
+finetuning-sentiment-analysis/checkpoint-188/rng_state.pth
+finetuning-sentiment-analysis/checkpoint-188/optimizer.pt
+finetuning-sentiment-analysis/checkpoint-188/scheduler.pt
